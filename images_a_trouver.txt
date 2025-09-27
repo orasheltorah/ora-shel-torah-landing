@@ -1,0 +1,23 @@
+[ HERO plein écran ]
+ └─ img: imgs/multi-generational-family-board-game-warm-lighting-kitchen.jpg
+     (ambiance famille + jeu)
+
+[ SECTION "Nos jeux" ]
+ ├─ JDC (carte) → imgs/jerusalem_old_city_twilight_....jpg   (paysage Jérusalem/émotion)
+ ├─ MoH (carte) → imgs/torah_scroll_yad_....jpg              (détail rouleau de Torah / yad)
+ └─ POZ (carte) → imgs/family_hanukkah_candles_....jpg       (ambiance bougies / foyer)
+
+[ "À venir" ]
+ └─ imgs/children_playing_educational_animal_cards_game.jpg  (enfants + cartes, générique)
+
+[ "Notre vision" ]
+ └─ imgs/family_dinner_candlelight_warm_gathering.jpg        (moment chaleureux)
+
+[ "Précommande" (vignettes produits) ]
+ ├─ JDC → imgs/jerusalem_ancient_city_golden_hour_....jpg
+ ├─ MoH → imgs/jewish_learning_torah_scroll_ancient_text.jpg
+ └─ POZ → imgs/warm_family_candlelit_dinner.jpg
+
+https://formspree.io/f/xpwywvqk  = contact
+https://formspree.io/f/xvgwgezy  = partenariats
+https://formspree.io/f/xwprpgvj  = newsletter
